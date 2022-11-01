@@ -1,0 +1,5 @@
+#junk
+.idea/
+
+#dependencies
+/node_modules
